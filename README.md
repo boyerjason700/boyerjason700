@@ -17,7 +17,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/jason-boyer7/" />][linkedin]
+[<img align="left" alt="boyerjason700 | LinkedIn" width="22px" src="https://www.linkedin.com/in/jason-boyer7/" />][linkedin]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[linkedin].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[linkedin].svg" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boyerjason700&layout=compact)](https://github.com/boyerjason700/github-readme-stats)
