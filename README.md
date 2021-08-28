@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Mission to Mars'
-- 🌱 I’m currently learning webscraping, Python, MongoDB
+- 🔭 I’m currently working on 'UFOs'
+- 🌱 I’m currently learning Javascript
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
