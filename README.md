@@ -4,7 +4,7 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Belly Button Bacteria'
+- 🔭 I’m currently working on 'Belly Button Biodiversity'
 - 🌱 I’m currently learning Javascript and Plotly
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
