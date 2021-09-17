@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Belly Button Biodiversity'
-- 🌱 I’m currently learning Javascript and Plotly
+- 🔭 I’m currently working on 'Mapping Earthquakes'
+- 🌱 I’m currently learning Javascript, D3, geoJSON, Leafly, and Mapbox
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
