@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Mapping Earthquakes'
-- 🌱 I’m currently learning Javascript, D3, geoJSON, Leafly, and Mapbox
+- 🔭 I’m currently working on 'Bikesharing'
+- 🌱 I’m currently learning Tableau
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
