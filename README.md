@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Bikesharing'
-- 🌱 I’m currently learning Tableau
+- 🔭 I’m currently working on 'MechaCarChallenge'
+- 🌱 I’m currently learning R
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
