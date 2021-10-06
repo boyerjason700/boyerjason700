@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'MechaCarChallenge'
-- 🌱 I’m currently learning R
+- 🔭 I’m currently working on 'Amazon Vine Analysis'
+- 🌱 I’m currently learning PySpark, MapReduce, AWS
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
@@ -23,7 +23,7 @@
 <img align="left" alt="Bootstrap" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <br>
 <br>
-Plotly, D3
+Plotly, D3, Tableau, RStudio
 ...and learning more!
 <br>
 <br>
