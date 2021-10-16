@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Amazon Vine Analysis'
-- 🌱 I’m currently learning PySpark, MapReduce, AWS
+- 🔭 I’m currently working on 'Credit Risk Analysis'
+- 🌱 I’m currently learning Supervised Machine Learning
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
