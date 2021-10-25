@@ -4,8 +4,8 @@
 
 ## 🎓 I am a student, husband, father, and lifelong learner!
 
-- 🔭 I’m currently working on 'Cryptocurrencies'
-- 🌱 I’m currently learning Unsupervised Machine Learning
+- 🔭 I’m currently working on 'Neural_Network_Charity_Analysis'
+- 🌱 I’m currently learning Neural Network Machine Learning
 - 🎯 My current target is to gain a position in data analytics
 - 🚀 My goal is to work in the aerospace industry on future Mars missions
 
