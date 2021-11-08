@@ -14,8 +14,8 @@
 
 <h1 align='center'>🎓 I am a student, husband, father, and lifelong learner!</h1>
 
-<p align='center'>- 🔭 I’m currently working on 'Neural_Network_Charity_Analysis'</p>
-<p align='center'>- 🌱 I’m currently learning Neural Network Machine Learning</p>
+<p align='center'>- 🔭 I’m currently working on 'Final_Project'</p>
+<p align='center'>- 🌱 I’m currently learning Machine Learning</p>
 <p align='center'>- 🎯 My current target is to gain a position in data analytics</p>
 <p align='center'>- 🚀 My goal is to work in the aerospace industry on future Mars missions</p>
 
