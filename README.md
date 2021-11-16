@@ -12,7 +12,7 @@
                                                              src="https://user-images.githubusercontent.com/74840026/139373824-70513210-b880-419f-95c3-86211054f1f0.png"/></a>
   &nbsp; &nbsp;
 
-<h1 align='center'>🎓 I am a student, husband, father, and lifelong learner!</h1>
+
 
 <p align='center'>- 🔭 I’m currently working on 'Final_Project'</p>
 <p align='center'>- 🌱 I’m currently learning Machine Learning</p>
