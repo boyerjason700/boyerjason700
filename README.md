@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Jason Boyer </h1>
+<h1 align='center'> Jason Boyer </h1>
 
 <p align='center'> <samp>Data Analyst | Data Visualizer </samp></p>
 <p align='center'>
