@@ -20,9 +20,9 @@
 <p align='center'>- 🚀 My goal is to work in the aerospace industry on future Mars missions</p> -->
 
 
-<h1 align='center'>🌐 Languages and Tools:</h1>
+<!-- <h1 align='center'>🌐 Languages and Tools:</h1> -->
 
-<p align='center'>
+<!-- <p align='center'>
   <img align="center" alt="Visual Studio Code" width="56px" src="https://user-images.githubusercontent.com/74840026/139372740-a9178b3b-5502-4cd2-bd66-2a16e19e2685.png"/>
   &nbsp;
   <img align="center" alt="Python" width="56px" src="https://user-images.githubusercontent.com/74840026/139372849-2d41a519-6573-410d-9049-6ac734727b2b.png" />
@@ -39,7 +39,7 @@
   <img align="center" alt="Power BI" width="56px" src="https://user-images.githubusercontent.com/74840026/139373653-ab7a7709-a97c-4cb0-af63-ba639c509d83.png" />
   <img align="center" alt="JupyterNotebook" width="56px" src="https://user-images.githubusercontent.com/74840026/139373662-57844ca3-1370-4e24-8a34-5ec925a2918c.png" />
   <img align="center" alt="Rlogo" width="56px" src="https://user-images.githubusercontent.com/74840026/139374073-1139eedd-9fd7-4296-8fd5-b625c36149a0.png" />
-</p>
+</p> -->
 
 <br>
 <br>
